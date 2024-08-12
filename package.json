@@ -1,0 +1,11 @@
+{
+  "name": "jwt-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "18.x"
+  },
+  "author": "Anurag Singh Chauhan",
+  "license": "ISC"
+}
